@@ -38,5 +38,5 @@ barClose.addEventListener('click',()=>{
 var about=$("#about");
 var article=$("#loadingPage")
   about.click(function () { 
-      article.load("indexhtml/cv.html")
+      article.load("cv.html")
   });
